@@ -1,11 +1,13 @@
-Features
-1.Prompt user to enter a search query
-2.Scrape product data including:
- Title,Price,Rating (if available),Image URL
-3.Save results to a CSV file (flipkart_products2.csv)
+Features <br>
+1.Prompt user to enter a search query <br>
 
-Requirements
-pip install requests beautifulsoup4
+2.Scrape product data including: <br>
+Title,Price,Rating (if available),Image URL <br>
 
-Run
-python flipkart_scraper.py
+3.Save results to a CSV file (flipkart_products2.csv) <br>
+
+Requirements <br>
+pip install requests beautifulsoup4 <br>
+
+Run <br>
+python flipkart_scraper.py <br>
